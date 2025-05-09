@@ -20,3 +20,5 @@ This document describes the specifications of the 60 GHz Flat Gain Limiting Ampl
      - 1150 mV p-p (< 5% THD)
    * - Power Consumption
      - 322.1 mW
+   * - Area
+     - 1.099 x 1.043 mm²
