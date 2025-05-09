@@ -17,7 +17,7 @@ This document describes the specifications of the 60 GHz Flat Gain Limiting Ampl
    * - Group Delay Variation
      - ±2.5 ps
    * - Differential Output Voltage
-     - 1150 mV p-p (< 5% THD)
+     - 800 mV p-p (< 5% THD)
    * - Power Consumption
      - 322.1 mW
    * - Area
