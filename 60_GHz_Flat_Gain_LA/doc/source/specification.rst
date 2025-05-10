@@ -35,7 +35,7 @@ Circuit Diagram:
 Layout Image:
 ========================
 .. figure:: _static/layout.png
-   :width: 4542 px
+   :width: 783 px
    :align: center
 
    Layout of the 60 GHz Flat Gain Limiting Amplifier (LA).
