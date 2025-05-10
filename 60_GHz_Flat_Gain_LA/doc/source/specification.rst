@@ -27,7 +27,7 @@ This document describes the specifications of the 60 GHz Flat Gain Limiting Ampl
 Circuit Diagram:
 ========================
 .. figure:: _static/main_ckt_diagram.jpg
-   :width: 600 px
+   :width: 4542 px
    :align: center
 
    Circuit diagram of the 60 GHz Flat Gain Limiting Amplifier (LA).
