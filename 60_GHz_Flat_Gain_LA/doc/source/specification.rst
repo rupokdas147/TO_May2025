@@ -22,3 +22,12 @@ This document describes the specifications of the 60 GHz Flat Gain Limiting Ampl
      - 322.1 mW
    * - Area
      - 1.099 x 1.043 mm²
+
+
+Circuit Diagram:
+========================
+.. figure:: _static/main_ckt_diagram.jpg
+   :width: 600 px
+   :align: center
+
+   Circuit diagram of the 60 GHz Flat Gain Limiting Amplifier (LA).
