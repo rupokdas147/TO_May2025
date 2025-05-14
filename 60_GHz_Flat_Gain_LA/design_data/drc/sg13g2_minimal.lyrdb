@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <report-database>
  <description>design rules: sg13g2_minimal | layout cell: FMD_QNC_60_GHZ_LA</description>
- <original-file>/home/rupok_nsl/Documents/TO_May2025/60_GHz_Flat_Gain_LA/design_data/gds/FMD_QNC_60_GHZ_LA.gds</original-file>
- <generator>drc: script='/home/rupok_nsl/IHP-Open-PDK/ihp-sg13g2/libs.tech/klayout/tech/drc/sg13g2_minimal.lydrc'</generator>
+ <original-file>/home/rf/Rupok_backup/TO_May2025/60_GHz_Flat_Gain_LA/design_data/klayout/FMD_QNC_60_GHZ_LA.gds</original-file>
+ <generator>drc: script='/home/rf/ikram_eye/IHP-Open-PDK/ihp-sg13g2/libs.tech/klayout/tech/drc/sg13g2_minimal.lydrc'</generator>
  <top-cell>FMD_QNC_60_GHZ_LA</top-cell>
  <tags>
   <tag>
